@@ -1,0 +1,13 @@
+2000 beauty-soap 50
+2001 lipstics    30
+2002 talc_powder 70
+2003 skin-cream  100
+2004 deodorants  150
+2005 scent       500
+2006 shampoo     150
+2007 conditioner 200
+2008 gel         100
+2009 eye-shadow  150
+2010 mascara     100
+2011 face-primer 150
+2012 hair-oil    200
